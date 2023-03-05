@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.text{
+    color: yellow;
+    text-align: center;
+}
+.next{
+    color: green;
+    text-align: center;
+    padding-top: 20px;
+}
+.nxt{
+    color: pink;
+    text-align: center;
+    padding-top: 20px;
+}
+input{
+    width: 700px;
+margin-left: 260px;
+}
+.box{
+    padding-top: 10px;
+}
+.flex{
+    display: flex;
+}
+.button{
+    padding-top: 10px;
+}
+#list{
+   list-style-type:none;
+
+}
+.display{
+    text-align: center;
+} 
+.display li{
+    width: 700px;
+    padding-top: 10px;
+    margin-bottom: 8px;
+    height: 25px;
+    background-color: burlywood;
+    margin-left: 246px;
+}
+.boom{
+    display: none;
+}
